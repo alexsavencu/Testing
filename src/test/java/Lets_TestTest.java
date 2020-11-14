@@ -11,7 +11,7 @@ import org.openqa.selenium.safari.SafariDriver;
 
 import java.util.concurrent.TimeUnit;
 
-class Lets_TestTest {
+public class Lets_TestTest {
 
     @Test
     public void demo(){
@@ -27,6 +27,7 @@ class Lets_TestTest {
         } catch (NoSuchElementException e) {
             e.printStackTrace();
         }
+
 
     }
 

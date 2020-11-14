@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddf73c8b-52e4-489b-a17b-5e65faa1d2a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Lets_TestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lets_TestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Selenium.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,25 +142,25 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="367" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1605281985096" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1605387230537">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1605387868152">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605387230537" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605387868152" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1605292065191" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1605387230535">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1605387868150">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605387230535" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605387868150" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1605292065189" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1605387230532">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1605387868148">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605387230532" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605387868148" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1605292065188" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1605387230536">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1605387868151">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605387230536" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605387868151" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1605292065190" />
     <state x="178" y="59" key="Maven.ArtifactSearchDialog" timestamp="1605287905310">
       <screen x="0" y="0" width="1280" height="800" />
