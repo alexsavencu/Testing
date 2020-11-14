@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddf73c8b-52e4-489b-a17b-5e65faa1d2a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kF0hIkMor9Iw2DG73GWYTqI9fu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Lets_TestTest">
+    <configuration name="GmailDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GmailDemo" />
+      <module name="Selenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleSauceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SampleSauceTest" />
+      <module name="Selenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lets_TestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lets_TestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lets_TestTest.demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lets_TestTest" />
+      <option name="METHOD_NAME" value="demo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lets_TestTest.site_header_is_on_home_page" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lets_TestTest" />
+      <option name="METHOD_NAME" value="site_header_is_on_home_page" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SampleSauceTest" />
+      <item itemvalue="JUnit.Lets_TestTest" />
+      <item itemvalue="JUnit.Lets_TestTest.site_header_is_on_home_page" />
+      <item itemvalue="Application.GmailDemo" />
+      <item itemvalue="JUnit.Lets_TestTest.demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Lets_TestTest" />
+        <item itemvalue="JUnit.Lets_TestTest.demo" />
+        <item itemvalue="Application.GmailDemo" />
+        <item itemvalue="JUnit.Lets_TestTest.site_header_is_on_home_page" />
+        <item itemvalue="Application.SampleSauceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddf73c8b-52e4-489b-a17b-5e65faa1d2a6" name="Default Changelist" comment="" />
+      <created>1605281150096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605281150096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="62" key="#Project_Structure" timestamp="1605284471822">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="62" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1605284471822" />
+    <state x="367" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1605281985096">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="367" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1605281985096" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1605355140019">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1605355140019" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1605292065191" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1605355140017">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1605355140017" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1605292065189" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1605355140016">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1605355140016" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1605292065188" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1605355140018">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605355140018" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1605292065190" />
+    <state x="178" y="59" key="Maven.ArtifactSearchDialog" timestamp="1605287905310">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="178" y="59" key="Maven.ArtifactSearchDialog/0.0.1280.800@0.0.1280.800" timestamp="1605287905310" />
+    <state x="419" y="146" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605287772376">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="419" y="146" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.800@0.0.1280.800" timestamp="1605287772376" />
+  </component>
+</project>
