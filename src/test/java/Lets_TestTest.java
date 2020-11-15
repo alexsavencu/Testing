@@ -11,6 +11,8 @@ import org.openqa.selenium.safari.SafariDriver;
 
 import java.util.concurrent.TimeUnit;
 
+import static org.junit.Assert.fail;
+
 public class Lets_TestTest {
 
     @Test
@@ -25,7 +27,7 @@ public class Lets_TestTest {
         try{
             driver.findElement(By.xpath("//span[@data-qa='error-bad-email-address']"));
         } catch (NoSuchElementException e) {
-            e.printStackTrace();
+            fail("NU A GASIT");
         }
 
 
